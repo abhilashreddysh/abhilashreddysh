@@ -1,7 +1,7 @@
-# Abhilash Reddy
+![Header](./github-header-image.png)
 - 👋 Hi, I’m @abhilashreddysh
-- 👀 I’m interested in Web Designing and Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Web based Projects
 - 📫 How to reach me abhilashreddysh.00001@gmail.com
 - 🕸️ My Portfolio  https://abhilashreddysh.github.io
