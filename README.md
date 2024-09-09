@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Abhilash from Bangalore,India<br><br>- 📚 I'm currently learning Devops skills.<br>- ⚡ In my free time I watch anime.</p>
+<p align="center">I'm Abhilash from Bangalore,India</p>
 
 ###
 
