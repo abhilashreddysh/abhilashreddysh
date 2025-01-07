@@ -33,7 +33,7 @@ Here are the key technologies I work with to build efficient and scalable system
 
 I’m focused on automating, optimizing, and enhancing system management, deployments, and infrastructure reliability. Here are my key projects and goals:
 
-**[HomeOps API](https://github.com/abhilashreddysh/homeops-api)** : An **API** for controlling devices and automating processes within my homelab, designed to streamline and integrate multiple automation systems.
+**[HomeOps API](https://github.com/shabhilash/homeops-api)** : An **API** for controlling devices and automating processes within my homelab, designed to streamline and integrate multiple automation systems.
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -42,6 +42,11 @@ I’m focused on automating, optimizing, and enhancing system management, deploy
 **[AutomationScripts](https://github.com/abhilashreddysh/AutomationScripts)** : A collection of **scripts** to automate system-level tasks, improving efficiency and reliability in my workflows.
 
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Cron](https://img.shields.io/badge/Cron-%23F7D03C.svg?style=for-the-badge&logo=cron&logoColor=black) ![Automation](https://img.shields.io/badge/Automation-%23F7B731.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**[homelab-ansible](https://github.com/shabhilash/homelab-ansible)** : A collection of **Ansible** playbooks for managing my home lab environment, automating deployment and system configurations.
+
+![Ansible](https://img.shields.io/badge/Ansible-%23121011.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Automation](https://img.shields.io/badge/Automation-%23F7B731.svg?style=for-the-badge&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23F7D03C.svg?style=for-the-badge&logo=github-actions&logoColor=black)
+
 
 ---
 
