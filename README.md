@@ -21,8 +21,6 @@ I’m hands-on with my **homelab**, exploring the latest tools to create real-wo
 
 ### **Ongoing Projects**
 
-**[homelab-ansible](https://github.com/shabhilash/homelab-ansible)** : A collection of **Ansible** playbooks for managing my home lab environment, automating deployment and system configurations.
-
 ![Ansible](https://img.shields.io/badge/Ansible-%23121011.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Automation](https://img.shields.io/badge/Automation-%23F7B731.svg?style=for-the-badge&logo=git&logoColor=white)
